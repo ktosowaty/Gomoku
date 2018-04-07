@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE words [
+        <!ELEMENT words (word*)>
+        <!ELEMENT word (polishWord, englishWord, spanishWord)>
+        <!ELEMENT polishWord (#PCDATA)>
+        <!ELEMENT englishWord (#PCDATA)>
+        <!ELEMENT spanishWord (#PCDATA)>
+        ]>
+<words>
+    <word>
+        <polishWord>slowo</polishWord>
+        <englishWord>word</englishWord>
+        <spanishWord>palabra</spanishWord>
+    </word>
+    <word>
+        <polishWord>czesc</polishWord>
+        <englishWord>hello</englishWord>
+        <spanishWord>hola</spanishWord>
+    </word>
+    <word>
+        <polishWord>do widzenia</polishWord>
+        <englishWord>goodbye</englishWord>
+        <spanishWord>despedida</spanishWord>
+    </word>
+    <word>
+        <polishWord>komputer</polishWord>
+        <englishWord>computer</englishWord>
+        <spanishWord>ordenador</spanishWord>
+    </word>
+    <word>
+        <polishWord>ojciec</polishWord>
+        <englishWord>father</englishWord>
+        <spanishWord>padre</spanishWord>
+    </word>
+    <word>
+        <polishWord>matka</polishWord>
+        <englishWord>mother</englishWord>
+        <spanishWord>madre</spanishWord>
+    </word>
+    <word>
+        <polishWord>programowac</polishWord>
+        <englishWord>programming</englishWord>
+        <spanishWord>programacion</spanishWord>
+    </word>
+    <word>
+        <polishWord>uczyc sie</polishWord>
+        <englishWord>learn</englishWord>
+        <spanishWord>aprender</spanishWord>
+    </word>
+    <word>
+        <polishWord>sluchac</polishWord>
+        <englishWord>listen</englishWord>
+        <spanishWord>atender</spanishWord>
+    </word>
+    <word>
+        <polishWord>czytac</polishWord>
+        <englishWord>read</englishWord>
+        <spanishWord>leerse</spanishWord>
+    </word>
+    <word>
+        <polishWord>impreza</polishWord>
+        <englishWord>party</englishWord>
+        <spanishWord>fiesta</spanishWord>
+    </word>
+    <word>
+        <polishWord>dom</polishWord>
+        <englishWord>house</englishWord>
+        <spanishWord>casa</spanishWord>
+    </word>
+    <word>
+        <polishWord>mieszkanie</polishWord>
+        <englishWord>flat</englishWord>
+        <spanishWord>apartamento</spanishWord>
+    </word>
+    <word>
+        <polishWord>rower</polishWord>
+        <englishWord>bike</englishWord>
+        <spanishWord>bicicleta</spanishWord>
+    </word>
+    <word>
+        <polishWord>kawa</polishWord>
+        <englishWord>coffee</englishWord>
+        <spanishWord>cafe</spanishWord>
+    </word>
+    <word>
+        <polishWord>herbata</polishWord>
+        <englishWord>tea</englishWord>
+        <spanishWord>merienda</spanishWord>
+    </word>
+    <word>
+        <polishWord>woda</polishWord>
+        <englishWord>water</englishWord>
+        <spanishWord>agua</spanishWord>
+    </word>
+    <word>
+        <polishWord>film</polishWord>
+        <englishWord>movie</englishWord>
+        <spanishWord>film</spanishWord>
+    </word>
+    <word>
+        <polishWord>rozmawiac</polishWord>
+        <englishWord>talk</englishWord>
+        <spanishWord>charla</spanishWord>
+    </word>
+    <word>
+        <polishWord>krzyczec</polishWord>
+        <englishWord>shout</englishWord>
+        <spanishWord>grito</spanishWord>
+    </word>
+</words>

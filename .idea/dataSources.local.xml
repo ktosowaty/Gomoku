@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="gomoku-database-server.database.windows.net" uuid="e7ccdb68-ec82-4a85-a612-f43632396107">
+      <database-info product="Microsoft SQL Server" version="12.00.1001" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 6.0 for SQL Server" driver-version="6.0.8112.100">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>ktosowaty</user-name>
+      <introspection-schemas>GomokuDatabase:dbo</introspection-schemas>
+    </data-source>
+  </component>
+</project>
